@@ -1,4 +1,4 @@
-# Islandora-ISLE-Interest-Group
+# Islandora ISLE Interest Group
 The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interested members of the community. 
 
 ## Conveners
@@ -20,7 +20,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
   * Spread communication re: new releases, patches, and security updates   
   * Gather issues raised in meeting and create/update Github issues
   * Assess existing PRs
-* **Communication:** [isle-updates](https://groups.google.com/forum/#!forum/isle-updates) Google group (name pending: islandora-isle)
+* **Communication:** [Islandora ISLE Google group](https://groups.google.com/forum/#!forum/islandora-isle)
 * **Meeting:** Every other Wednesday at 3:00pm EST via Zoom: https://columbiauniversity.zoom.us/j/836960289
 * **Reporting:** ISLE Newsletter to be reported to Islandora Coordinating Committee (ICC)
 
@@ -30,7 +30,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 * Zoom: [columbiauniversity.zoom.us/j/836960289](https://columbiauniversity.zoom.us/j/836960289)
 * Agenda: [bit.ly/isle-meeting](https://bit.ly/isle-meeting)
 * Next Meeting: Wednesday, August 15 2018 3:00pm EST
-* Subscribe to [our Google group](https://groups.google.com/forum/#!forum/isle-updates) for updates, meeting announcements, and technical support
+* Subscribe to the [Islandora ISLE Google group](https://groups.google.com/forum/#!forum/islandora-isle) for updates, meeting announcements, and technical support
 
 ## Meeting Roles
 * **Convener** solicits agenda items and ensures the meeting takes place, roles for note taking and issue tracking are assigned, and the Google group and Github page are updated after meetings
@@ -50,4 +50,4 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 * Marcus Barnes (University of Toronto)
 
 ---
-ISLE is an [Islandora Collaboration Group](https://github.com/Islandora-Collaboration-Group) project.
+[ISLE](https://github.com/Islandora-Collaboration-Group/ISLE) is an [Islandora Collaboration Group](https://github.com/Islandora-Collaboration-Group) project.
