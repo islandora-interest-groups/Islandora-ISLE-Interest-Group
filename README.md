@@ -42,7 +42,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 * Carolyn Moritz (Vassar College)
 * Mark Sandford (Colgate University)
 * Francesca Livermore (Wesleyan University)
-* David Kaiser-Clark (Williams College)
+* David Keiser-Clark (Williams College)
 * Mark McFate (Grinnell College)
 * Gavin Morris (Born-Digital)
 * Noah Smith (Born-Digital)
