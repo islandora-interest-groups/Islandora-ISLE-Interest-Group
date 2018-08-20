@@ -9,6 +9,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 * Carolyn Moritz (Vassar College)
 * Mark Sandford (Colgate University)
 * Francesca Livermore (Wesleyan University)
+* David Keiser-Clark (Williams College)
 
 ## Terms of Reference
 * **Name:** ISLE Interest Group
