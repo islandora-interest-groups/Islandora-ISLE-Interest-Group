@@ -22,15 +22,15 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
   * Gather issues raised in meeting and create/update Github issues
   * Assess existing PRs
 * **Communication:** [Islandora ISLE Google group](https://groups.google.com/forum/#!forum/islandora-isle)
-* **Meeting:** Every other Wednesday at 3:00pm EST via Zoom: https://columbiauniversity.zoom.us/j/836960289
+* **Meeting:** Every other Wednesday at 3:00pm EDT via Zoom: https://columbiauniversity.zoom.us/j/836960289
 * **Reporting:** ISLE Newsletter to be reported to Islandora Coordinating Committee (ICC)
 
 ## How to Join
 * ISLE IG meetings are open to everybody!
-* 3:00pm EST Wednesday, every two weeks
+* 3:00pm EDT Wednesday, every two weeks
 * Zoom: [columbiauniversity.zoom.us/j/836960289](https://columbiauniversity.zoom.us/j/836960289)
 * Agenda: [bit.ly/isle-meeting](https://bit.ly/isle-meeting)
-* Next Meeting: Wednesday, August 15 2018 3:00pm EST
+* Next Meeting: Wednesday, September 26 2018 3:00pm EDT
 * Subscribe to the [Islandora ISLE Google group](https://groups.google.com/forum/#!forum/islandora-isle) for updates, meeting announcements, and technical support
 
 ## Meeting Roles
@@ -49,6 +49,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 * Noah Smith (Born-Digital)
 * Derek Merleaux (Born-Digital)
 * Marcus Barnes (University of Toronto)
+* Yamil Suarez (Berklee College of Music)
 
 ---
 [ISLE](https://github.com/Islandora-Collaboration-Group/ISLE) is an [Islandora Collaboration Group](https://github.com/Islandora-Collaboration-Group) project.
