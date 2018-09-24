@@ -29,7 +29,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 * 3:00pm EST Wednesday, every two weeks
 * Zoom: [columbiauniversity.zoom.us/j/836960289](https://columbiauniversity.zoom.us/j/836960289)
 * Agenda: [bit.ly/isle-meeting](https://bit.ly/isle-meeting)
-* Next Meeting: Wednesday, August 15 2018 3:00pm EST
+* See stubs in /meetings for a list of future dates
 * Subscribe to the [Islandora ISLE Google group](https://groups.google.com/forum/#!forum/islandora-isle) for updates, meeting announcements, and technical support
 
 ## Meeting Roles
