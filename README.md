@@ -6,7 +6,6 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 
 ## Project Maintainers
 * Benjamin Rosner (Barnard College)
-* Carolyn Moritz (Vassar College)
 * Mark Sandford (Colgate University)
 * Francesca Livermore (Wesleyan University)
 * David Keiser-Clark (Williams College)
@@ -30,7 +29,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 * 3:00pm EDT Wednesday, every two weeks
 * Zoom: [columbiauniversity.zoom.us/j/836960289](https://columbiauniversity.zoom.us/j/836960289)
 * Agenda: [bit.ly/isle-meeting](https://bit.ly/isle-meeting)
-* Next Meeting: Wednesday, September 26 2018 3:00pm EDT
+* Next Meeting: See [/meetings](https://github.com/islandora-interest-groups/Islandora-ISLE-Interest-Group/tree/master/meetings) for a list of future dates + times
 * Subscribe to the [Islandora ISLE Google group](https://groups.google.com/forum/#!forum/islandora-isle) for updates, meeting announcements, and technical support
 
 ## Meeting Roles
