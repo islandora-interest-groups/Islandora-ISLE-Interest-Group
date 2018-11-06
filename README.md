@@ -2,13 +2,15 @@
 The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interested members of the community. 
 
 ## Conveners
-* Carolyn Moritz (Vassar College)
+* Benjamin Rosner (Barnard) 
+<!--* Shaun Trujillo (MHC)-->
 
 ## Project Maintainers
 * Benjamin Rosner (Barnard College)
 * Mark Sandford (Colgate University)
 * Francesca Livermore (Wesleyan University)
 * David Keiser-Clark (Williams College)
+* Shaun Trujillo (Mount Holyoke College)
 
 ## Terms of Reference
 * **Name:** ISLE Interest Group
@@ -49,6 +51,10 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 * Derek Merleaux (Born-Digital)
 * Marcus Barnes (University of Toronto)
 * Yamil Suarez (Berklee College of Music)
+* Shaun Trujillo (Mount Holyoke College)
+
+## Previous Conveners: THANK YOU!
+* Carolyn Moritz (Vassar College)
 
 ---
 [ISLE](https://github.com/Islandora-Collaboration-Group/ISLE) is an [Islandora Collaboration Group](https://github.com/Islandora-Collaboration-Group) project.
