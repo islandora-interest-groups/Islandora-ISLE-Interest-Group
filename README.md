@@ -3,7 +3,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 
 ## Conveners
 * Benjamin Rosner (Barnard) 
-<!--* Shaun Trujillo (MHC)-->
+* Shaun Trujillo (MHC)
 
 ## Project Maintainers
 * Benjamin Rosner (Barnard College)
