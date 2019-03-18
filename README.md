@@ -1,16 +1,21 @@
 # Islandora ISLE Interest Group
-The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interested members of the community. 
+The ISLE Interest Group consists of [ISLE Maintainers](https://github.com/Islandora-Collaboration-Group/ISLE#isle-project-maintainers), beta testers, and interested members of the community. 
 
 ## Conveners
-* Benjamin Rosner (Barnard) 
-* Shaun Trujillo (MHC)
+* Shaun Trujillo, Mount Holyoke College
 
 ## Project Maintainers
-* Benjamin Rosner (Barnard College)
-* Mark Sandford (Colgate University)
-* Francesca Livermore (Wesleyan University)
-* David Keiser-Clark (Williams College)
-* Shaun Trujillo (Mount Holyoke College)
+* Bethany Seeger (Lead), Amherst College
+* Mark Sandford (Lead), Colgate University
+* Francesca Baird, Wesleyan University
+* David Keiser-Clark, Williams College
+* Gavin Morris, Born-Digital
+* Shaun Trujillo, Mount Holyoke College
+
+## Former Contributors
+* Carolyn Moritz, Vassar College
+* Benjamin Rosner (Lead Maintainer 2018-19), Barnard College
+* Steve Young, Hamilton College
 
 ## Terms of Reference
 * **Name:** ISLE Interest Group
@@ -28,7 +33,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 
 ## How to Join
 * ISLE IG meetings are open to everybody!
-* 3:00pm EDT Wednesday, every two weeks
+* 3:00pm EDT on the first and third Wednesday's
 * Zoom: [columbiauniversity.zoom.us/j/836960289](https://columbiauniversity.zoom.us/j/836960289)
 * Agenda: [bit.ly/isle-meeting](https://bit.ly/isle-meeting)
 * Next Meeting: See [/meetings](https://github.com/islandora-interest-groups/Islandora-ISLE-Interest-Group/tree/master/meetings) for a list of future dates + times
