@@ -5,12 +5,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 * Bethany Seeger (Amherst College) 
 
 ## Project Maintainers
-* Bethany Seeger (Amherst College) 
-* Mark Sandford (Colgate University)
-* Francesca Livermore (Wesleyan University)
-* David Keiser-Clark (Williams College)
-* Gavin Morris (Born-Digital)
-* Shaun Trujillo (Mount Holyoke College)
+* [View maintainers](https://github.com/Islandora-Collaboration-Group/ISLE#isle-project-maintainers)
 
 ## Terms of Reference
 * **Name:** ISLE Interest Group
@@ -53,9 +48,8 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 * Yamil Suarez (Berklee College of Music)
 * Shaun Trujillo (Mount Holyoke College)
 
-## Previous Conveners: THANK YOU!
-* Carolyn Moritz (Vassar College)
-* Benjamin Rosner (Barnard College)
+## Former Contributors: THANK YOU!
+* [View maintainers](https://github.com/Islandora-Collaboration-Group/ISLE#former-contributors)
 
 ---
 [ISLE](https://github.com/Islandora-Collaboration-Group/ISLE) is an [Islandora Collaboration Group](https://github.com/Islandora-Collaboration-Group) project.
