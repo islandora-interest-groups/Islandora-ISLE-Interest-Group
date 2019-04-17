@@ -2,14 +2,14 @@
 The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interested members of the community. 
 
 ## Conveners
-* Benjamin Rosner (Barnard) 
-* Shaun Trujillo (MHC)
+* Bethany Seeger (Amherst College) 
 
 ## Project Maintainers
-* Benjamin Rosner (Barnard College)
+* Bethany Seeger (Amherst College) 
 * Mark Sandford (Colgate University)
 * Francesca Livermore (Wesleyan University)
 * David Keiser-Clark (Williams College)
+* Gavin Morris (Born-Digital)
 * Shaun Trujillo (Mount Holyoke College)
 
 ## Terms of Reference
@@ -55,6 +55,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 
 ## Previous Conveners: THANK YOU!
 * Carolyn Moritz (Vassar College)
+* Benjamin Rosner (Barnard College)
 
 ---
 [ISLE](https://github.com/Islandora-Collaboration-Group/ISLE) is an [Islandora Collaboration Group](https://github.com/Islandora-Collaboration-Group) project.
