@@ -18,13 +18,13 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
   * Gather issues raised in meeting and create/update Github issues
   * Assess existing PRs
 * **Communication:** [Islandora ISLE Google group](https://groups.google.com/forum/#!forum/islandora-isle)
-* **Meeting:** Every other Wednesday at 3:00pm EDT via Zoom: https://columbiauniversity.zoom.us/j/836960289
+* **Meeting:** Every other Wednesday at 3:00pm EDT via Zoom: https://mtholyoke.zoom.us/j/473063252
 * **Reporting:** ISLE Newsletter to be reported to Islandora Coordinating Committee (ICC)
 
 ## How to Join
 * ISLE IG meetings are open to everybody!
 * 3:00pm EDT Wednesday, every two weeks
-* Zoom: [columbiauniversity.zoom.us/j/836960289](https://columbiauniversity.zoom.us/j/836960289)
+* Zoom: [https://mtholyoke.zoom.us/j/473063252](https://columbiauniversity.zoom.us/j/836960289)
 * Agenda: [bit.ly/isle-meeting](https://bit.ly/isle-meeting)
 * Next Meeting: See [/meetings](https://github.com/islandora-interest-groups/Islandora-ISLE-Interest-Group/tree/master/meetings) for a list of future dates + times
 * Subscribe to the [Islandora ISLE Google group](https://groups.google.com/forum/#!forum/islandora-isle) for updates, meeting announcements, and technical support
