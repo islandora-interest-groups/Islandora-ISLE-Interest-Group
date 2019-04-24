@@ -41,6 +41,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 * Cary Gordon (The Cherry Hill Company)
 * David Keiser-Clark (Williams College)
 * Derek Merleaux (Born-Digital)
+* Don Richards (The University of Tennessee, Knoxville)
 * Francesca Livermore (Wesleyan University)
 * Gavin Morris (Born-Digital)
 * Marcus Barnes (University of Toronto)
