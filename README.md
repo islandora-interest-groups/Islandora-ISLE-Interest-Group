@@ -36,17 +36,22 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 
 ## Membership
 * Benjamin Rosner (Barnard College)
+* Bethany Seeger (Amherst College) 
 * Carolyn Moritz (Vassar College)
-* Mark Sandford (Colgate University)
-* Francesca Livermore (Wesleyan University)
+* Cary Gordon (The Cherry Hill Company)
 * David Keiser-Clark (Williams College)
-* Mark McFate (Grinnell College)
-* Gavin Morris (Born-Digital)
-* Noah Smith (Born-Digital)
 * Derek Merleaux (Born-Digital)
+* Francesca Livermore (Wesleyan University)
+* Gavin Morris (Born-Digital)
 * Marcus Barnes (University of Toronto)
-* Yamil Suarez (Berklee College of Music)
+* Mark McFate (Grinnell College)
+* Mark Sandford (Colgate University)
+* Melissa Anez (Islandora Foundation)
+* Noah Smith (Born-Digital)
+* Sarah Goldstein (Mount Holyoke College)
 * Shaun Trujillo (Mount Holyoke College)
+* Thomas Shorock (The University of Kansas)
+* Yamil Suarez (Berklee College of Music)
 
 ## Former Contributors: THANK YOU!
 * [View maintainers](https://github.com/Islandora-Collaboration-Group/ISLE#former-contributors)
