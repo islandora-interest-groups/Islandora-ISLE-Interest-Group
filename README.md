@@ -17,14 +17,15 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
   * Spread communication re: new releases, patches, and security updates   
   * Gather issues raised in meeting and create/update Github issues
   * Assess existing PRs
+  * Goals: Dockerize Islandora 8; Maintain ISLE for Islandora 7
 * **Communication:** [Islandora ISLE Google group](https://groups.google.com/forum/#!forum/islandora-isle)
-* **Meeting:** Every other Wednesday at 3:00pm EDT via Zoom: https://mtholyoke.zoom.us/j/473063252
+* **Meeting:** Every other Wednesday at 3:00pm EDT via Zoom: <https://mtholyoke.zoom.us/j/813610519>
 * **Reporting:** ISLE Newsletter to be reported to Islandora Coordinating Committee (ICC)
 
 ## How to Join
 * ISLE IG meetings are open to everybody!
 * 3:00pm EDT Wednesday, every two weeks
-* Zoom: [https://mtholyoke.zoom.us/j/473063252](https://columbiauniversity.zoom.us/j/836960289)
+* Zoom: <https://mtholyoke.zoom.us/j/813610519>
 * Agenda: [bit.ly/isle-meeting](https://bit.ly/isle-meeting)
 * Next Meeting: See [/meetings](https://github.com/islandora-interest-groups/Islandora-ISLE-Interest-Group/tree/master/meetings) for a list of future dates + times
 * Subscribe to the [Islandora ISLE Google group](https://groups.google.com/forum/#!forum/islandora-isle) for updates, meeting announcements, and technical support
@@ -32,7 +33,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 ## Meeting Roles
 * **Convener** solicits agenda items and ensures the meeting takes place, roles for note taking and issue tracking are assigned, and the Google group and Github page are updated after meetings
 * **Note taker** is assigned on a rotating basis and adds notes beneath agenda items at [bit.ly/isle-meeting](https://bit.ly/isle-meeting)
-* **Issue tracker** creates/updates Github issues for relevant issues raised in meetings
+* **Issue tracker** creates/updates [Github issues](https://github.com/Islandora-Collaboration-Group/ISLE/issues) for relevant issues raised in meetings
 
 ## Membership
 * Benjamin Rosner (Barnard College)
