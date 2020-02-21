@@ -2,7 +2,7 @@
 The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interested members of the community. 
 
 ## Conveners
-* Bethany Seeger (Amherst College) 
+* Noah Smith (Born-Digital) 
 
 ## Project Maintainers
 * [View maintainers](https://github.com/Islandora-Collaboration-Group/ISLE#isle-project-maintainers)
@@ -19,12 +19,12 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
   * Assess existing PRs
   * Goals: Dockerize Islandora 8; Maintain ISLE for Islandora 7
 * **Communication:** [Islandora ISLE Google group](https://groups.google.com/forum/#!forum/islandora-isle)
-* **Meeting:** Every other Wednesday at 3:00pm EDT via Zoom: <https://mtholyoke.zoom.us/j/813610519>
+* **Meeting:** The second Wednesday of each month at 3:00pm EDT via Zoom: <https://mtholyoke.zoom.us/j/813610519>
 * **Reporting:** ISLE Newsletter to be reported to Islandora Coordinating Committee (ICC)
 
 ## How to Join
 * ISLE IG meetings are open to everybody!
-* 3:00pm EDT Wednesday, every two weeks
+* 3:00pm EDT onthe second Wednesday of the month
 * Zoom: <https://mtholyoke.zoom.us/j/813610519>
 * Agenda: [bit.ly/isle-meeting](https://bit.ly/isle-meeting)
 * Next Meeting: See [/meetings](https://github.com/islandora-interest-groups/Islandora-ISLE-Interest-Group/tree/master/meetings) for a list of future dates + times
@@ -36,9 +36,6 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 * **Issue tracker** creates/updates [Github issues](https://github.com/Islandora-Collaboration-Group/ISLE/issues) for relevant issues raised in meetings
 
 ## Membership
-* Benjamin Rosner (Barnard College)
-* Bethany Seeger (Amherst College) 
-* Carolyn Moritz (Vassar College)
 * Cary Gordon (The Cherry Hill Company)
 * David Keiser-Clark (Williams College)
 * Derek Merleaux (Born-Digital)
