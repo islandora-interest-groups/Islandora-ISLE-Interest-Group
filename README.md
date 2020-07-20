@@ -25,7 +25,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 ## How to Join
 * ISLE IG meetings are open to everybody!
 * 3:00pm EDT on the second Wednesday of the month
-* Zoom: <https://mtholyoke.zoom.us/j/813610519>
+* Zoom: <https://us02web.zoom.us/j/82497957366>
 * Agenda: [bit.ly/isle-meeting](https://bit.ly/isle-meeting)
 * Subscribe to the [Islandora ISLE Google group](https://groups.google.com/forum/#!forum/islandora-isle) for updates, meeting announcements, and technical support
 
