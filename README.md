@@ -27,6 +27,7 @@ The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interest
 * 3:00pm EDT on the second Wednesday of the month
 * Zoom: <https://us02web.zoom.us/j/82497957366>
 * Agenda: [bit.ly/isle-meeting](https://bit.ly/isle-meeting)
+* Calendar Invitations: Contact community@islandora.ca to receive a recurring calendar invitation to this meeting.
 * Subscribe to the [Islandora ISLE Google group](https://groups.google.com/forum/#!forum/islandora-isle) for updates, meeting announcements, and technical support
 
 ## Meeting Roles
