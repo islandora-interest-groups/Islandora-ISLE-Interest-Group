@@ -15,7 +15,7 @@ There are now two version of ISLE:
   * Guide new installations and test cases
   * Gather community-supplied knowledge base around specific use cases
   * Encourage community development around new features and improvements
-  * Spread communication re: new releases, patches, and security updates   
+  * Spread communication re: new releases, patches, and security updates
   * Gather issues raised in meeting and create/update Github issues
   * Assess existing PRs
   * Goals: Dockerize Islandora 8; Maintain ISLE for Islandora 7
@@ -49,10 +49,12 @@ There are now two version of ISLE:
 * Derek Merleaux (Born-Digital)
 * Don Richards (The University of Tennessee, Knoxville)
 * Francesca Livermore (Wesleyan University)
-* Gavin Morris (Born-Digital)
+* Gavin Morris (Born-Digital) Convener
+* Jeffery Antoniuk (CWRC)
 * Mark McFate (Grinnell College)
 * Mark Sandford (Colgate University)
 * Melissa Anez (Islandora Foundation)
+* Nigel Banks
 * Noah Smith (Born-Digital)
 * Sarah Goldstein (Mount Holyoke College)
 * Thomas Shorock (The University of Kansas)
