@@ -8,9 +8,17 @@ There are now two version of ISLE:
 - [ISLE 8](https://github.com/Islandora-Devops/isle-dc) is an [Islandora Foundation](https://islandora.ca) project.
   * [ISLE 8 project maintainers](https://github.com/Islandora-Devops/isle-dc#maintainerssponsors)
 
+---
+
+### UPDATE - AUGUST 11, 2021
+
+**This group is on currently on hiatus until a co-convenor can be found for ISLE 8 work and additionally group attendance increases.**
+
+* Please note that ISLE 7 security updates will continue until November 2022.
+
 ## Terms of Reference
 * **Name:** ISLE Interest Group
-* **Purpose:** The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interested members of the community. This IG meets to share development and documentation goals and progress, track issues, guide and learn from new test cases, and assess the strategic vision of the project’s future.
+* **Purpose:** The ISLE Interest Group consists of ISLE Maintainers, beta testers, and interested members of the community. This IG meets to share development and documentation goals and progress, track issues, guide and command 'markdown.extension.onEnterKey' not foundlearn from new test cases, and assess the strategic vision of the project’s future.
 * **Goals & Tasks:**
   * Guide new installations and test cases
   * Gather community-supplied knowledge base around specific use cases
