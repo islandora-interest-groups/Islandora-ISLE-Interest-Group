@@ -12,7 +12,7 @@ There are now two version of ISLE:
 
 ### UPDATE - AUGUST 11, 2021
 
-**This group is on currently on hiatus until a co-convenor can be found for ISLE 8 work and additionally group attendance increases.**
+**This group is currently on hiatus until a co-convenor can be found for ISLE 8 work and additionally group attendance increases.**
 
 * Please note that ISLE 7 security updates will continue until November 2022.
 
